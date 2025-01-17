@@ -9,9 +9,6 @@ def funcion1():
 
     print("la suma de {} + {} es {}".format(num1,num2, res))
 
-
-
-
 def funcion2():
     print("Hola, soy la funcion 2")
 
