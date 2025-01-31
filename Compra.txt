@@ -1,0 +1,4 @@
+pedro compró 7 boletos, el total es de $64.26
+Luis compró 7 boletos, el total es de $64.26
+
+Total a pagar por todas las compras: $128.52
